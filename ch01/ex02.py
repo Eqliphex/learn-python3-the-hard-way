@@ -1,3 +1,4 @@
+#! /usr/bin/python3
 # A comment, this is so you can read your program later.
 # Anything after the (#) is ignored by the python interpeter.
 
